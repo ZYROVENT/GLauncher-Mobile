@@ -1,5 +1,8 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Theme.GLauncher" parent="Theme.AppCompat.DayNight.NoActionBar">
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GLauncher" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#08050E</item>
+        <item name="android:navigationBarColor">#08050E</item>
+        <item name="android:windowBackground">#08050E</item>
     </style>
 </resources>

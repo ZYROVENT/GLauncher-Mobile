@@ -1,4 +1,10 @@
-node_modules/
-package.json
-package-lock.json
-app/src/main/assets/runtimes/
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
